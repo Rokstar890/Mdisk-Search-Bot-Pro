@@ -14,7 +14,7 @@ class Config(object):
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQFqmCIAIngKdPHAjc2FVJ-W6F5hOQinrhvIhzXJvMbxk27ubGRE68Pe3cGmHyekxtPHARoXpUeKb9FUJSu-B4zs0UPztD7ZxTXtJ3V47WiMVGAEboXdAY3lzS16pt_xRXx2cyHQxlD61SvvqTP5FKH8IC3GY2HXhxTgaKiMXJxlfap0-k5mON6BAZ3eLAAE1xG4AvpI_W_LgEfY_gy6idJYnS83hMRDyKSfiPhm5Dnm95FefV9f9pH0Z2NIAsplApYmkJER6dZFjLwd0cOsR5qFy_Jm1-TfGqf99E1Om56FsH9Vj1N6vMeUbE2hICpUz2pa0jG3upg2B4BqvMVgg2OZNZgnwgAAAABIf2IgAA")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", -1001896066430))
     BOT_USERNAME = os.getenv("FilterSearchBot_bot")
-    BOT_OWNER = int(os.getenv("5091735355"))
+    BOT_OWNER = int(os.getenv(""))
 #    OWNER_USERNAME = os.getenv("Fire00466")
     BACKUP_CHANNEL = os.getenv("netflixvilla002")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
